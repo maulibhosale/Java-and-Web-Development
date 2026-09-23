@@ -1,6 +1,6 @@
 package inheritdemo;
 
-public class Student {
+public class Student extends Person {
 	
 	int rollNo;
 	String course;

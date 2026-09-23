@@ -1,5 +1,7 @@
 package inheritdemo;
 
+// School Management
+
 public class Person {
 
 	String name;
