@@ -8,6 +8,7 @@ public class Developer extends Employee {
 		System.out.println("Developer Salary is ");
 		int bonus = 5000 ;
 		return bonus+super.calculateSalary();
+		
 	}
 
 
