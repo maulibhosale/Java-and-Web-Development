@@ -17,8 +17,6 @@ public class Person {
     	}
 	}
 	
-	
-	
 	public static void main(String[] args) {
 		Person p = new Person();
 		
@@ -26,7 +24,5 @@ public class Person {
 		
 		System.out.println(p.getAge());
 	}
-	
-	
 
 }
