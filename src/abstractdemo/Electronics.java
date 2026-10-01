@@ -1,0 +1,16 @@
+package abstractdemo;
+
+public class Electronics extends Product {
+
+	public Electronics(String name, double price) {
+		super(name, price);
+	}
+
+	@Override
+	public double calculateDiscount() {
+		// TODO Auto-generated method stub
+		return price * 0.10;
+	}
+	
+
+}
